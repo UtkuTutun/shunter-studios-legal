@@ -9,7 +9,7 @@ Little Refinery, Truss Studios
 
 Yürürlük tarihi: 25 Kasım 2026
 
-Sürüm 1
+Sürüm 2
 
 English: [Privacy Policy](../privacy-policy.md)
 
@@ -39,7 +39,7 @@ Little Refinery oyununu ("oyun") Truss Studios ("biz") geliştirir ve yayımlar.
 
 **Sunucu günlükleri.** Sunucularımız, hizmeti güvende tutmak ve kötüye kullanımı önlemek için IP adreslerini günlüklerde (log) ve istek sınırlamada kullanır. Günlükler en fazla 30 gün saklanır.
 
-**Analitik.** Hiçbir analitik ya da izleme etkin değildir. İleride yalnızca onayınızla çalışan bir analitik eklersek, onu açmadan önce bu politikayı güncelleriz.
+**Oyun verisi (isteğe bağlı).** Oyun, oyun verisini paylaşmak isteyip istemediğinizi bir kez sorar; cevabınızı istediğiniz an **Menü > Ayarlar > Gizlilik > Veri paylaşımı** yolundan değiştirebilirsiniz. İzin verene kadar kapalıdır. Açıkken oyun, nasıl oynandığına dair olayları sunucumuza gönderir: oturumların başlaması ve bitmesi (ne kadar süre uzak kaldığınız, geniş aralıklarla), kurulan tesisler, ulaşılan kilometre taşları, alınan hedef ödülleri, kazanılan başarımlar, tamamlanan projeler, sonuna kadar izlenen ödüllü reklamlar ve tamamlanan satın almalar; bunlarla birlikte oyun sürümü, platform ve dil. Olaylar hesap kimliğinize bağlıdır. Adınızı, e-posta adresinizi, konumunuzu, reklam kimliğinizi ya da yazdığınız hiçbir metni içermez; onları reklam için kullanmayız, satmayız ve paylaşmayız. Yalnızca toplamlar olarak bakarız (örneğin bir tesisi kaç oyuncunun kurduğu) ve oyunu geliştirmek için kullanırız. Olaylar 365 gün saklanır. Veri paylaşımını kapatmak gönderimi durdurur ve hesabınızın olaylarını sunucumuzdan siler; hesabınızı silmek de onları siler. Seçiminiz cihazınızda saklanır; başka bir cihaz yeniden sorar. Bunun dışında hiçbir analitik ya da izleme etkin değildir.
 
 ## Hukuki dayanaklar
 
@@ -48,6 +48,7 @@ Little Refinery oyununu ("oyun") Truss Studios ("biz") geliştirir ve yayımlar.
 | Kullandığınız çevrimiçi özellikleri çalıştırmak, satın almaları doğrulamak ve geri yüklemek | Sizinle yaptığımız sözleşmenin ifası (GDPR m. 6/1-b; KVKK m. 5/2-c) |
 | Güvenlik, istek sınırları, kayıt denetimleri, isim filtresi, moderasyon ve bildirimler | Güvenli ve adil bir oyun için meşru menfaatimiz (GDPR m. 6/1-f; KVKK m. 5/2-f) |
 | Android'de kişiselleştirilmiş reklam | Yasanın gerektirdiği yerlerde onayınız (GDPR m. 6/1-a; KVKK m. 5/1, açık rıza); onayınızı her zaman geri alabilirsiniz |
+| İsteğe bağlı oyun verisi | Onayınız (GDPR m. 6/1-a; KVKK m. 5/1, açık rıza); onayınızı oyunun ayarlarından her zaman geri alabilirsiniz |
 | Hukuki yükümlülükler ve hukuki talepler | GDPR m. 6/1-c ve f; KVKK m. 5/2-ç ve e |
 
 ## Verileri kimler alır
@@ -70,7 +71,7 @@ Hesap verilerinizi hesabınız var olduğu sürece saklarız. Hesabınızı silm
 1. Little Refinery'yi açın ve **Menü > Hesap > Hesabı sil** adımlarını izleyin.
 2. Onaylayın.
 
-Hesabın eşitlemesi durur ve 30 gün boyunca silme işlemini oyunda geri alabilirsiniz. Bu süre dolunca hesabı, bulut kayıtlarını ve hesaba bağlı verileri (puanlar, oturumlar, konsorsiyum üyeliği, arkadaşlar ve yaptığınız bildirimler gibi) kalıcı olarak sileriz.
+Hesabın eşitlemesi durur ve 30 gün boyunca silme işlemini oyunda geri alabilirsiniz. Bu süre dolunca hesabı, bulut kayıtlarını ve hesaba bağlı verileri (puanlar, oturumlar, oyun verisi, konsorsiyum üyeliği, arkadaşlar ve yaptığınız bildirimler gibi) kalıcı olarak sileriz.
 
 Silinmeyen veriler:
 
@@ -78,6 +79,7 @@ Silinmeyen veriler:
 - Gönderdiğiniz sohbet mesajları, yeni mesajlar onların yerini alana kadar.
 - Diğer oyuncuların sizin hakkınızda yaptığı bildirimler, moderasyon için gerektiği sürece.
 - Sunucu günlükleri, en fazla 30 gün.
+- Veritabanımızın şifreli yedekleri, en fazla yaklaşık 6 ay: günlük yedekler 7 gün, haftalıklar 28 gün, aylıklar 183 gün saklanır; sunucumuzda ve stüdyonun bir bilgisayarında. Bunları yalnızca bir arızadan sonra hizmeti geri getirmek için kullanırız.
 - Google Play'in ya da Steam'in kendi politikalarına göre tuttuğu satın alma kayıtları.
 
 Oyunu artık açamıyorsanız oyunun Google Play ya da Steam mağaza sayfasında gösterilen geliştirici e-posta adresine yazın. Hesabınızı bulmamıza yardım edecek bilgileri ekleyin: örneğin şirket adınız, platformunuz ve elinizde varsa hesap kimliğiniz. Hesabın size ait olduğunu doğrulamak için ek bilgi isteyebiliriz.
@@ -105,11 +107,11 @@ Başvurunuzu reddedersek, yanıtımızı yetersiz bulursanız ya da 30 gün içi
 
 ## Çocuklar
 
-Oyun 13 yaş ve üstü oyuncular için yapılmıştır ve ABD Çocukların Çevrimiçi Gizliliğini Koruma Yasası (COPPA) bakımından da 13 yaşından küçük çocuklara yönelik değildir. 13 yaşından küçük çocukların kişisel verilerini bilerek toplamayız; böyle bir çocuğun çevrimiçi özellikleri kullandığını öğrenirsek o hesabın verilerini sileriz. Böyle bir durum olduğunu düşünüyorsanız bize yazın. Bazı ülkelerde belirli bir yaşın altındaki oyuncuların (AB'de 16 yaşa kadar) kişiselleştirilmiş reklama onay verebilmesi için ebeveyn ya da vasi izni gerekir.
+Oyun 13 yaş ve üstü oyuncular için yapılmıştır ve ABD Çocukların Çevrimiçi Gizliliğini Koruma Yasası (COPPA) bakımından da 13 yaşından küçük çocuklara yönelik değildir. 13 yaşından küçük çocukların kişisel verilerini bilerek toplamayız; böyle bir çocuğun çevrimiçi özellikleri kullandığını öğrenirsek o hesabın verilerini sileriz. Böyle bir durum olduğunu düşünüyorsanız bize yazın. Bazı ülkelerde belirli bir yaşın altındaki oyuncuların (AB'de 16 yaşa kadar) kişiselleştirilmiş reklama ya da oyun verisi paylaşımına onay verebilmesi için ebeveyn ya da vasi izni gerekir.
 
 ## Güvenlik
 
-Sunucularımızla bağlantılar şifrelidir, cihaz anahtarları ve uzun ömürlü belirteçler yalnızca özet olarak saklanır ve istekler sınırlanır. Verilerinizi etkileyen bir ihlal olursa yasanın gerektirdiği şekilde size ve yetkili makamlara bildiririz.
+Sunucularımızla bağlantılar şifrelidir, cihaz anahtarları ve uzun ömürlü belirteçler yalnızca özet olarak saklanır, veritabanı yedekleri şifrelidir ve istekler sınırlanır. Verilerinizi etkileyen bir ihlal olursa yasanın gerektirdiği şekilde size ve yetkili makamlara bildiririz.
 
 ## Değişiklikler ve iletişim
 

@@ -9,7 +9,7 @@ Little Refinery, by Truss Studios
 
 Effective date: 2026-11-25
 
-Version 1
+Version 2
 
 Türkçe: [Gizlilik Politikası](tr/gizlilik-politikasi.md)
 
@@ -39,7 +39,7 @@ Truss Studios ("we", "us") develops and publishes the game Little Refinery (the 
 
 **Server logs.** Our servers use IP addresses in logs and to limit requests, to keep the service secure and prevent abuse. Logs are kept for at most 30 days.
 
-**Analytics.** No analytics or tracking is active. If we add opt-in analytics, we will update this policy before turning it on.
+**Gameplay data (optional).** The game asks once whether you want to share gameplay data, and you can change your answer at any time under **Menu > Settings > Privacy > Data sharing**. It is off until you allow it. When it is on, the game sends events about how the game is played to our server: sessions starting and ending (with how long you were away, in broad ranges), facilities built, milestones reached, goals claimed, achievements earned, projects completed, rewarded ads watched to the end and purchases completed, together with the game version, platform and language. The events are linked to your account ID. They do not include your name, email address, location, advertising ID or any text you write, and we do not use them for advertising, sell them or share them. We look at them only as totals (for example, how many players build a facility) to improve the game. Events are kept for 365 days. Turning data sharing off stops sending and deletes the events of your account from our server; deleting your account deletes them too. Your choice is stored on your device, so another device asks again. No other analytics or tracking is active.
 
 ## Legal bases
 
@@ -48,6 +48,7 @@ Truss Studios ("we", "us") develops and publishes the game Little Refinery (the 
 | Running the online features you use, and verifying and restoring purchases | Contract with you (GDPR Art. 6(1)(b); KVKK Art. 5(2)(c)) |
 | Security, rate limits, save checks, the name filter, moderation and reports | Legitimate interest in a safe and fair game (GDPR Art. 6(1)(f); KVKK Art. 5(2)(f)) |
 | Personalized ads on Android | Consent where the law requires it (GDPR Art. 6(1)(a); KVKK Art. 5(1)), which you can withdraw at any time |
+| Optional gameplay data | Your consent (GDPR Art. 6(1)(a); KVKK Art. 5(1)), which you can withdraw at any time in the game's settings |
 | Legal obligations and legal claims | GDPR Art. 6(1)(c) and (f); KVKK Art. 5(2)(ç) and (e) |
 
 ## Who receives data
@@ -70,7 +71,7 @@ We keep your account data while your account exists. To delete your account:
 1. Open Little Refinery and go to **Menu > Account > Delete account**.
 2. Confirm.
 
-The account stops syncing, and you can undo the deletion in the game for 30 days. After that, we permanently delete the account, its cloud saves and the data linked to it, such as scores, sessions, consortium membership, friends and reports you made.
+The account stops syncing, and you can undo the deletion in the game for 30 days. After that, we permanently delete the account, its cloud saves and the data linked to it, such as scores, sessions, gameplay data, consortium membership, friends and reports you made.
 
 What remains:
 
@@ -78,6 +79,7 @@ What remains:
 - Chat messages you sent, until newer messages replace them.
 - Reports other players made about you, as long as needed for moderation.
 - Server logs, for at most 30 days.
+- Encrypted backups of our database, for at most about 6 months: daily backups are kept for 7 days, weekly ones for 28 days and monthly ones for 183 days, on our server and on a studio computer. We use them only to restore the service after a failure.
 - Purchase records that Google Play or Steam keep under their own policies.
 
 If you can no longer open the game, write to the developer email address shown on the game's Google Play or Steam store page. Include details that help us find your account, such as your company name, platform and, if you have it, account ID. We may ask for more information to confirm that the account is yours.
@@ -105,11 +107,11 @@ If we reject your request, our answer is insufficient or we do not answer within
 
 ## Children
 
-The game is made for players aged 13 and over and is not directed at children under 13, including under the US Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personal data from children under 13, and if we learn that one has used the online features, we delete that account's data. Contact us if you believe this has happened. In some countries, players under a certain age (up to 16 in the EU) need a parent's or guardian's permission to consent to personalized ads.
+The game is made for players aged 13 and over and is not directed at children under 13, including under the US Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personal data from children under 13, and if we learn that one has used the online features, we delete that account's data. Contact us if you believe this has happened. In some countries, players under a certain age (up to 16 in the EU) need a parent's or guardian's permission to consent to personalized ads or to sharing gameplay data.
 
 ## Security
 
-Connections to our servers are encrypted, device keys and long-lived tokens are stored only as hashes, and requests are rate limited. If a breach affects your data, we will inform you and the authorities as the law requires.
+Connections to our servers are encrypted, device keys and long-lived tokens are stored only as hashes, database backups are encrypted, and requests are rate limited. If a breach affects your data, we will inform you and the authorities as the law requires.
 
 ## Changes and contact
 
