@@ -5,15 +5,15 @@ title: Little Refinery Terms of Use
 
 # Terms of Use
 
-Little Refinery, by Truss Studios
+Little Refinery, by Shunter Studios
 
-Effective date: 2026-11-25
+Effective date: 2026-11-26
 
-Version 1
+Version 2
 
 Türkçe: [Kullanım Şartları](tr/kullanim-sartlari.md)
 
-These terms are an agreement between you and Truss Studios ("we", "us") about the game Little Refinery (the "game") and its online features. Our [Privacy Policy](privacy-policy.md) explains how we use personal data.
+These terms are an agreement between you and Shunter Studios ("we", "us") about the game Little Refinery (the "game") and its online features. Our [Privacy Policy](privacy-policy.md) explains how we use personal data.
 
 ## Acceptance
 

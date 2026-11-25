@@ -5,7 +5,7 @@ title: Legal documents
 
 # Legal documents
 
-Legal documents for games by Truss Studios.
+Legal documents for games by Shunter Studios.
 
 ## Little Refinery
 

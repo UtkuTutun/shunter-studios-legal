@@ -5,15 +5,15 @@ title: Little Refinery Kullanım Şartları
 
 # Kullanım Şartları
 
-Little Refinery, Truss Studios
+Little Refinery, Shunter Studios
 
-Yürürlük tarihi: 25 Kasım 2026
+Yürürlük tarihi: 26 Kasım 2026
 
-Sürüm 1
+Sürüm 2
 
 English: [Terms of Use](../terms-of-use.md)
 
-Bu şartlar, Little Refinery oyunu ("oyun") ve çevrimiçi özellikleri konusunda sizinle Truss Studios ("biz") arasındaki anlaşmadır. Kişisel verileri nasıl kullandığımızı [Gizlilik Politikamız](gizlilik-politikasi.md) açıklar.
+Bu şartlar, Little Refinery oyunu ("oyun") ve çevrimiçi özellikleri konusunda sizinle Shunter Studios ("biz") arasındaki anlaşmadır. Kişisel verileri nasıl kullandığımızı [Gizlilik Politikamız](gizlilik-politikasi.md) açıklar.
 
 ## Kabul
 

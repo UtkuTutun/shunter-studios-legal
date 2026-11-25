@@ -1,8 +1,8 @@
-# Truss Studios legal
+# Shunter Studios legal
 
-This repository holds the public legal documents for games by Truss Studios. GitHub Pages publishes it as a small website.
+This repository holds the public legal documents for games by Shunter Studios. GitHub Pages publishes it as a small website.
 
-It is a temporary home. When the Truss Studios website is ready, the documents will move there.
+It is a temporary home. When the Shunter Studios website is ready, the documents will move there.
 
 ## Little Refinery
 

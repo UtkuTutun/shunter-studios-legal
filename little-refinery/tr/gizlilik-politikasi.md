@@ -5,15 +5,15 @@ title: Little Refinery Gizlilik Politikası
 
 # Gizlilik Politikası
 
-Little Refinery, Truss Studios
+Little Refinery, Shunter Studios
 
-Yürürlük tarihi: 25 Kasım 2026
+Yürürlük tarihi: 26 Kasım 2026
 
-Sürüm 2
+Sürüm 3
 
 English: [Privacy Policy](../privacy-policy.md)
 
-Little Refinery oyununu ("oyun") Truss Studios ("biz") geliştirir ve yayımlar. Bu politikadaki kişisel verilerin veri sorumlusu biziz. Adınızı, e-posta adresinizi, telefon numaranızı ya da konumunuzu sormayız.
+Little Refinery oyununu ("oyun") Shunter Studios ("biz") geliştirir ve yayımlar. Bu politikadaki kişisel verilerin veri sorumlusu biziz. Adınızı, e-posta adresinizi, telefon numaranızı ya da konumunuzu sormayız.
 
 ## Kullandığımız veriler
 
@@ -90,7 +90,7 @@ Yaşadığınız yere göre verilerinize erişme ve bir kopyasını alma, onlar�
 
 Bu hakları kullanmak için mağaza sayfasında gösterilen geliştirici e-posta adresine yazın ya da hesabınızı oyunda silin. Hesapların e-posta adresi ya da şifresi olmadığı için hesabın size ait olduğunu doğrulayan bilgiler isteyebiliriz. Başvurulara 30 gün içinde ücretsiz yanıt veririz.
 
-**Türkiye (KVKK).** 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca veri sorumlusu Truss Studios olarak, yukarıdaki verileri oyun, sunucularımız ve mağazaların makbuzları aracılığıyla otomatik yollarla, yukarıda belirtilen amaçlar ve hukuki dayanaklarla toplarız. KVKK'nın 11. maddesi uyarınca şu haklara sahipsiniz:
+**Türkiye (KVKK).** 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) uyarınca veri sorumlusu Shunter Studios olarak, yukarıdaki verileri oyun, sunucularımız ve mağazaların makbuzları aracılığıyla otomatik yollarla, yukarıda belirtilen amaçlar ve hukuki dayanaklarla toplarız. KVKK'nın 11. maddesi uyarınca şu haklara sahipsiniz:
 
 - kişisel verilerinizin işlenip işlenmediğini öğrenme, işlenmişse buna ilişkin bilgi talep etme;
 - işlenme amacını ve verilerin amacına uygun kullanılıp kullanılmadığını öğrenme;

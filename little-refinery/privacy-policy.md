@@ -5,15 +5,15 @@ title: Little Refinery Privacy Policy
 
 # Privacy Policy
 
-Little Refinery, by Truss Studios
+Little Refinery, by Shunter Studios
 
-Effective date: 2026-11-25
+Effective date: 2026-11-26
 
-Version 2
+Version 3
 
 Türkçe: [Gizlilik Politikası](tr/gizlilik-politikasi.md)
 
-Truss Studios ("we", "us") develops and publishes the game Little Refinery (the "game") and is the data controller for the personal data in this policy. We do not ask for your name, email address, phone number or location.
+Shunter Studios ("we", "us") develops and publishes the game Little Refinery (the "game") and is the data controller for the personal data in this policy. We do not ask for your name, email address, phone number or location.
 
 ## Data we use
 
@@ -90,7 +90,7 @@ Depending on where you live, you may have the right to access your data and get 
 
 To use these rights, write to the developer email address shown on the store page, or delete your account in the game. As accounts have no email address or password, we may ask for details that confirm the account is yours. We answer free of charge within 30 days.
 
-**Türkiye (KVKK).** Under Law No. 6698 on the Protection of Personal Data (KVKK), Truss Studios is the data controller. We collect the data above by automated means through the game, our servers and the stores' receipts, for the purposes and on the legal bases above. Under Article 11, you have the right to:
+**Türkiye (KVKK).** Under Law No. 6698 on the Protection of Personal Data (KVKK), Shunter Studios is the data controller. We collect the data above by automated means through the game, our servers and the stores' receipts, for the purposes and on the legal bases above. Under Article 11, you have the right to:
 
 - learn whether your data is processed, and request information about it;
 - learn the purpose of the processing and whether the data is used for it;
