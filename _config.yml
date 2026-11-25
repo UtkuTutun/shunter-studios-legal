@@ -1,0 +1,6 @@
+title: Truss Studios legal
+description: Legal documents for games by Truss Studios
+theme: jekyll-theme-minimal
+lang: en-US
+exclude:
+  - README.md
