@@ -9,7 +9,7 @@ Little Refinery, Shunter Studios
 
 Yürürlük tarihi: 27 Kasım 2026
 
-Sürüm 4
+Sürüm 5
 
 English: [Privacy Policy](../privacy-policy.md)
 
@@ -27,7 +27,7 @@ Little Refinery oyununu ("oyun") Shunter Studios ("biz") geliştirir ve yayımla
 
 **Başka cihaza geçiş** tek kullanımlık, 8 karakterlik bir bağlantı koduyla yapılır. Kod 10 dakika geçerlidir ve yalnızca özet olarak saklanır. İki cihazda da şirket varsa birini seçersiniz; öbürü 30 gün arşivde kalır, sonra silinir.
 
-**Sıralama** tablolarında şirket adınız ve haftalık puanınız (tamamlanan siparişler) diğer oyunculara gösterilir.
+**Sıralama** tablolarında şirket adınız, ambleminiz ve haftalık puanınız (tamamlanan siparişler) diğer oyunculara gösterilir. Sıralama, oradan açılan şirket profili ve konsorsiyumunuzun üye listesi şu an oyunda olup olmadığınızı da gösterir (çevrimiçi ya da çevrimdışı). Bu bilgi, oyun açıkken sunucumuzla sürdürdüğü oturumdan gelir; diğer oyuncular yalnız çevrimiçi ya da çevrimdışı olduğunuzu görür, en son ne zaman oynadığınızı görmez.
 
 **Konsorsiyumlar** (oyuncu grupları) şu verileri içerir: diğer oyuncuların görebildiği konsorsiyum adı, açıklaması ve amblemi; üyelik, katılma başvuruları ve roller; haftalık katkılar; sohbet mesajları (hazır hızlı mesajlar ya da kendi yazdığınız metin); sessize almalar; uygunsuz isim ve mesaj bildirimleri. Üyeler birbirinin şirket adını, rolünü, katkısını ve mesajlarını görür; konsorsiyumu yönetenler katılma başvurularını başvuranın oyun içi geliriyle birlikte görür. Konsorsiyumun adı, amblemi ve siparişinin doluluğu, benzer büyüklükteki konsorsiyumların haftalık sıralamasında da görünür. Her konsorsiyum son 200 mesajını saklar. Kendi mesajınızı yazmak için kişisel bilgi paylaşmayı yasaklayan sohbet kurallarını kabul etmeniz gerekir. Kabul ettiğiniz anı kaydederiz.
 

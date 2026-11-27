@@ -9,7 +9,7 @@ Little Refinery, by Shunter Studios
 
 Effective date: 2026-11-27
 
-Version 4
+Version 5
 
 Türkçe: [Gizlilik Politikası](tr/gizlilik-politikasi.md)
 
@@ -27,7 +27,7 @@ Shunter Studios ("we", "us") develops and publishes the game Little Refinery (th
 
 **Moving to another device** uses a one-time 8-character link code, valid for 10 minutes and stored only as a hash. If both devices have a company, you keep one, and the other is archived for 30 days, then deleted.
 
-**Leaderboards** show your company name and weekly score (completed orders) to other players.
+**Leaderboards** show your company name, emblem and weekly score (completed orders) to other players. Leaderboards, the company profile other players can open from them and your consortium's member list also show whether you are in the game right now (online or offline). This comes from the session the game keeps with our server while it is open; other players see only online or offline, not when you were last active.
 
 **Consortiums** (player groups) involve the consortium's name, description and emblem, which other players can see; membership, join requests and roles; weekly contributions; chat messages (preset quick messages or your own text); mutes; and reports of inappropriate names or messages. Members see each other's company names, roles, contributions and messages; those who manage the consortium also see join requests with the applicant's in-game income. A consortium's name, emblem and order progress also appear in the weekly ranking of consortiums of a similar size. Each consortium keeps its last 200 messages. Writing your own messages requires accepting the chat rules, which forbid sharing personal details. We record when you accept them.
 
