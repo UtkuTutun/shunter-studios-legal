@@ -7,9 +7,9 @@ title: Little Refinery Privacy Policy
 
 Little Refinery, by Shunter Studios
 
-Effective date: 2026-11-26
+Effective date: 2026-11-27
 
-Version 3
+Version 4
 
 Türkçe: [Gizlilik Politikası](tr/gizlilik-politikasi.md)
 
@@ -39,7 +39,7 @@ Shunter Studios ("we", "us") develops and publishes the game Little Refinery (th
 
 **Server logs.** Our servers use IP addresses in logs and to limit requests, to keep the service secure and prevent abuse. Logs are kept for at most 30 days.
 
-**Gameplay data (optional).** The game asks once whether you want to share gameplay data, and you can change your answer at any time under **Menu > Settings > Privacy > Data sharing**. It is off until you allow it. When it is on, the game sends events about how the game is played to our server: sessions starting and ending (with how long you were away, in broad ranges), facilities built, milestones reached, goals claimed, achievements earned, projects completed, rewarded ads watched to the end and purchases completed, together with the game version, platform and language. The events are linked to your account ID. They do not include your name, email address, location, advertising ID or any text you write, and we do not use them for advertising, sell them or share them. We look at them only as totals (for example, how many players build a facility) to improve the game. Events are kept for 365 days. Turning data sharing off stops sending and deletes the events of your account from our server; deleting your account deletes them too. Your choice is stored on your device, so another device asks again. No other analytics or tracking is active.
+**Gameplay data (optional).** The game asks once whether you want to share gameplay data, and you can change your answer at any time under **Menu > Settings > Privacy > Data sharing**. It is off until you allow it. When it is on, the game sends events about how the game is played to our server: sessions starting and ending (with how long you were away, in broad ranges), facilities built, milestones reached, goals claimed, achievements earned, projects completed, rewarded ads watched to the end and purchases completed, together with the game version, platform and language. On Android, session events also include where the game was installed from, as Google Play reports it (for example "google-play" for the store itself or "instagram" for a link on our Instagram profile). The events are linked to your account ID. They do not include your name, email address, location, advertising ID or any text you write, and we do not use them for advertising, sell them or share them. We look at them only as totals (for example, how many players build a facility) to improve the game. Events are kept for 365 days. Turning data sharing off stops sending and deletes the events of your account from our server; deleting your account deletes them too. Your choice is stored on your device, so another device asks again. No other analytics or tracking is active.
 
 ## Legal bases
 
@@ -63,6 +63,8 @@ Shunter Studios ("we", "us") develops and publishes the game Little Refinery (th
 Our servers may be in another country. For such transfers, we use the safeguards the law requires, such as standard contractual clauses or, for data from Türkiye, those in Article 9 of the KVKK.
 
 Our community Discord server, our Steam pages and the store pages are run by other companies under their own privacy policies.
+
+**Our Discord bot.** When you join our Discord server, our bot notes which of our invite links you used (each of our social profiles has its own link) so that we can count how many people come from each place. It stores this with a one-way code made from your Discord user ID, not the ID itself, and deletes it when you leave the server. It also counts the messages sent each day without reading them. We look only at totals.
 
 ## Deleting your account
 

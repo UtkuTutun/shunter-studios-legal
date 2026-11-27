@@ -7,9 +7,9 @@ title: Little Refinery Gizlilik Politikası
 
 Little Refinery, Shunter Studios
 
-Yürürlük tarihi: 26 Kasım 2026
+Yürürlük tarihi: 27 Kasım 2026
 
-Sürüm 3
+Sürüm 4
 
 English: [Privacy Policy](../privacy-policy.md)
 
@@ -39,7 +39,7 @@ Little Refinery oyununu ("oyun") Shunter Studios ("biz") geliştirir ve yayımla
 
 **Sunucu günlükleri.** Sunucularımız, hizmeti güvende tutmak ve kötüye kullanımı önlemek için IP adreslerini günlüklerde (log) ve istek sınırlamada kullanır. Günlükler en fazla 30 gün saklanır.
 
-**Oyun verisi (isteğe bağlı).** Oyun, oyun verisini paylaşmak isteyip istemediğinizi bir kez sorar; cevabınızı istediğiniz an **Menü > Ayarlar > Gizlilik > Veri paylaşımı** yolundan değiştirebilirsiniz. İzin verene kadar kapalıdır. Açıkken oyun, nasıl oynandığına dair olayları sunucumuza gönderir: oturumların başlaması ve bitmesi (ne kadar süre uzak kaldığınız, geniş aralıklarla), kurulan tesisler, ulaşılan kilometre taşları, alınan hedef ödülleri, kazanılan başarımlar, tamamlanan projeler, sonuna kadar izlenen ödüllü reklamlar ve tamamlanan satın almalar; bunlarla birlikte oyun sürümü, platform ve dil. Olaylar hesap kimliğinize bağlıdır. Adınızı, e-posta adresinizi, konumunuzu, reklam kimliğinizi ya da yazdığınız hiçbir metni içermez; onları reklam için kullanmayız, satmayız ve paylaşmayız. Yalnızca toplamlar olarak bakarız (örneğin bir tesisi kaç oyuncunun kurduğu) ve oyunu geliştirmek için kullanırız. Olaylar 365 gün saklanır. Veri paylaşımını kapatmak gönderimi durdurur ve hesabınızın olaylarını sunucumuzdan siler; hesabınızı silmek de onları siler. Seçiminiz cihazınızda saklanır; başka bir cihaz yeniden sorar. Bunun dışında hiçbir analitik ya da izleme etkin değildir.
+**Oyun verisi (isteğe bağlı).** Oyun, oyun verisini paylaşmak isteyip istemediğinizi bir kez sorar; cevabınızı istediğiniz an **Menü > Ayarlar > Gizlilik > Veri paylaşımı** yolundan değiştirebilirsiniz. İzin verene kadar kapalıdır. Açıkken oyun, nasıl oynandığına dair olayları sunucumuza gönderir: oturumların başlaması ve bitmesi (ne kadar süre uzak kaldığınız, geniş aralıklarla), kurulan tesisler, ulaşılan kilometre taşları, alınan hedef ödülleri, kazanılan başarımlar, tamamlanan projeler, sonuna kadar izlenen ödüllü reklamlar ve tamamlanan satın almalar; bunlarla birlikte oyun sürümü, platform ve dil. Android'de oturum olaylarında oyunun nereden yüklendiği de bulunur; bunu Google Play bildirir (örneğin mağazanın kendisi için "google-play", Instagram profilimizdeki bağlantı için "instagram"). Olaylar hesap kimliğinize bağlıdır. Adınızı, e-posta adresinizi, konumunuzu, reklam kimliğinizi ya da yazdığınız hiçbir metni içermez; onları reklam için kullanmayız, satmayız ve paylaşmayız. Yalnızca toplamlar olarak bakarız (örneğin bir tesisi kaç oyuncunun kurduğu) ve oyunu geliştirmek için kullanırız. Olaylar 365 gün saklanır. Veri paylaşımını kapatmak gönderimi durdurur ve hesabınızın olaylarını sunucumuzdan siler; hesabınızı silmek de onları siler. Seçiminiz cihazınızda saklanır; başka bir cihaz yeniden sorar. Bunun dışında hiçbir analitik ya da izleme etkin değildir.
 
 ## Hukuki dayanaklar
 
@@ -63,6 +63,8 @@ Little Refinery oyununu ("oyun") Shunter Studios ("biz") geliştirir ve yayımla
 Sunucularımız başka bir ülkede olabilir. Bu aktarımlarda yasanın istediği güvenceleri kullanırız; örneğin standart sözleşme hükümlerini ya da Türkiye'den aktarılan veriler için KVKK'nın 9. maddesindeki güvenceleri.
 
 Topluluk Discord sunucumuz, Steam sayfalarımız ve mağaza sayfaları başka şirketlerce, kendi gizlilik politikalarına göre işletilir.
+
+**Discord botumuz.** Discord sunucumuza katıldığınızda botumuz hangi davet bağlantımızı kullandığınızı not eder (her sosyal profilimizin kendi bağlantısı vardır); böylece her yerden kaç kişinin geldiğini sayarız. Bunu Discord kullanıcı kimliğinizin kendisiyle değil, ondan üretilen geri çevrilemez bir kodla saklar ve sunucudan ayrıldığınızda siler. Her gün gönderilen mesajları da okumadan sayar. Yalnızca toplamlara bakarız.
 
 ## Hesabınızı silme
 
